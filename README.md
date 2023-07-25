@@ -20,7 +20,7 @@ Create a new Notebook Server on the Kubeflow on vSphere platform.
 
 Open a Terminal window. Pull the code of this project by running
 
-`git clone todo`
+`git clone https://github.com/blueskyztt/ALBERT.git`
 
 ## 3. Download model
 
